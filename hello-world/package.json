@@ -1,0 +1,22 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "hello world smart contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TIAN-2001/eth-hello-world.git"
+  },
+  "author": "jay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TIAN-2001/eth-hello-world/issues"
+  },
+  "homepage": "https://github.com/TIAN-2001/eth-hello-world#readme",
+  "devDependencies": {
+    "hardhat": "^2.13.0"
+  }
+}
