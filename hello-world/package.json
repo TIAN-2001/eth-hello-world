@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/TIAN-2001/eth-hello-world#readme",
   "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.2",
+    "ethers": "^5.7.2",
     "hardhat": "^2.13.0"
   },
   "dependencies": {
